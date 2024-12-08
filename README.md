@@ -42,7 +42,7 @@ I'm a cybersecurity expert and blackhat hacker in penetration testing, vulnerabi
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://t.me/G0D_L33T" target="blank"><img src="https://banner2.cleanpng.com/20180625/oe/aaz6xf1f0.webp" alt="Telegram"/></a>
+  <a href="https://t.me/G0D_L33T" target="blank"><img src="https://files.catbox.moe/nbcoyu.png" alt="Telegram"/></a>
 <a href="https://teamarxu.neocities.org/" target="blank">
   <img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="teamarxu.neocities.org"/>
 </a>
